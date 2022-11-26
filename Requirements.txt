@@ -1,0 +1,6 @@
+streamlit==1.15.1
+pandas==1.5.2
+altair==4.2.0
+
+
+
